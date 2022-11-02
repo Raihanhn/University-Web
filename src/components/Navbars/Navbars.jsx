@@ -1,10 +1,12 @@
 import React from 'react'
+import img from '../../assets/img/edu.png'
+import { AiOutlineSearch } from 'react-icons/ai';
 
 const Navbars = () => {
   return (
     <nav className="navbar-second flex">
     <div className="logo">
-      <h1>EDU</h1>
+      <img src={img} alt=""/>
     </div>  
     <ul className='flex'>
         <li><a href="#">HOME</a></li>
@@ -15,6 +17,8 @@ const Navbars = () => {
         <li><a href="#">FACULTY MEMBERS</a></li>
         <li><a href="#">CURRENT STUDENTS</a></li>
         <li><a href="#">IMPORTANT LINKS</a></li>
+        <li><a href="#"><AiOutlineSearch className='search'/></a></li>
+       
     </ul>
 </nav>
   )
