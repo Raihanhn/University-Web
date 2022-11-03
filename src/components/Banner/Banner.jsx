@@ -1,11 +1,17 @@
 import React from 'react'
-import img from '../../assets/img/edu_photo.jpg'
+
 
 const Banner = () => {
   return (
     <div className="banner">
-        <img src={img} alt="" />
-    </div>
+       <div className="rab">
+        <p>OSMOSIS: INTERDISCIPLINARY</p>
+       </div>
+       <div className="kab">
+        <p> APPROACHES IN HUMAN SCIENCES </p>
+       </div>
+        <button className="bt">CLICK FOR DETAILS→</button>
+       </div>
   )
 }
 

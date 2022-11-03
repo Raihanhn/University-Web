@@ -12,11 +12,6 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
 
-.nav{
-  padding: 0 50px;
-  width: 100%;
-}
-
 .flex{
   display: flex;
   justify-content: space-between;
@@ -28,9 +23,6 @@ body{
   color: #fff;
   height: 60px;
   cursor: pointer;
-  /* position: fixed;
-  left: 0;
-  right: 0; */
 }
 
 .center{
@@ -49,13 +41,12 @@ body{
   border-radius: 5px;
   font-weight: 300;
   cursor: pointer;
-  margin-left: 20px;
-  
+  margin-left: 20px; 
 }
 
 .navbar-second{
-  background-color: wheat;
-  height: 60px;
+  background-color: #fff;
+  height: 55px;
 }
 
 .logo img{
@@ -66,7 +57,7 @@ body{
   
 }
 
-.navbar-second li{
+.navbar-second ul li{
   list-style: none;
 }
 
@@ -75,19 +66,59 @@ body{
   font-size: 25px;
 }
 
-.navbar-second li a{
+.navbar-second ul li a{
   text-decoration: none;
   text-transform: capitalize;
   font-size: 16px;
   margin-left: 28px;
   color: black;
   font-weight: 200;
+  display: block;
 
 }
 
-.banner img{
-  width: 100%;
+.banner {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.4)), url(./assets/img/edu_photo.jpg);
   height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-repeat: no-repeat;
-  position: absolute;
+  background-size: cover; 
+  color: rgb(241, 236, 236);
+  font-size: 2.5vw;
 }
+
+.kab{
+  position: absolute;
+  margin-bottom: 5vw;
+  
+}
+
+.rab{
+  position: absolute;
+  margin-bottom: 12vw;
+}
+
+.banner .bt{
+  padding: 10px 18vw 10px 18vw;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  margin-top: 4vw;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  background: transparent;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.banner .bt:hover{
+  background: rgba(255, 255, 255, 0.2);
+}
+
+
+
+
