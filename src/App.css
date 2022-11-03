@@ -84,3 +84,10 @@ body{
   font-weight: 200;
 
 }
+
+.banner img{
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  position: absolute;
+}

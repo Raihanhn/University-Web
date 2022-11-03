@@ -18,7 +18,7 @@ const Navbars = () => {
         <li><a href="#">CURRENT STUDENTS</a></li>
         <li><a href="#">IMPORTANT LINKS</a></li>
         <li><a href="#"><AiOutlineSearch className='search'/></a></li>
-       
+
     </ul>
 </nav>
   )
