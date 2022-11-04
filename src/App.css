@@ -134,9 +134,10 @@ body{
   bottom: 8.3vw;
   background-color: #6A0032;
   color: #fff;
-  padding-bottom: 10vw;
-  padding-top: 2.5vw;
+  padding-bottom: 2.8vw;
+  padding-top: 2vw;
   display: flex; 
+  line-height: 38px;
 }
 
 .about h3{
@@ -144,15 +145,24 @@ body{
 }
 
 .about .first p{
-  margin-left: 8vw;
+  margin-left: 10vw;
+  font-weight: 500;
+  font-size: 1.2vw;
+  cursor: pointer;
 }
 
 .about .second p{
-  margin-left: 8vw;
+  font-weight: 500;
+  margin-left: 10vw;
+  font-size: 1.2vw;
+  cursor: pointer;
 }
 
 .about .third p{
-  margin-left: 8vw;
+  font-weight: 500;
+  margin-left: 10vw;
+  font-size: 1.2vw;
+  cursor: pointer;
 }
 
 

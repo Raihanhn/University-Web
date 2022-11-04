@@ -11,12 +11,12 @@ const About = () => {
 
         <div className="second">
             <h3>▪ &nbsp; ABOUT US</h3>
-            <p>▪ &nbsp; Vice Chancellor's Note <br/> ▪ &nbsp; Message from the Vice Chairman, BoT </p>
+            <p>▪ &nbsp; Idea Behind EDU <br/> ▪ &nbsp; Mission, Objectives & Scope <br/> ▪ &nbsp; Board of Advisors </p>
         </div>
 
         <div className="second">
             <h3>▪ &nbsp; WHY EDU? <br/> ▪ &nbsp; ACADEMIC POLICY</h3>
-            <p>▪ &nbsp; Vice Chancellor's Note <br/> ▪ &nbsp; Message from the Vice Chairman, BoT </p>
+            <p>▪ &nbsp; Graduating Scheme <br/> ▪ &nbsp; Grading System</p>
         </div>
 
 
