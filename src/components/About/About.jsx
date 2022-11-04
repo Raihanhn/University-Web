@@ -6,17 +6,20 @@ const About = () => {
 
         <div className="first">
             <h3>▪ &nbsp; MESSAGES</h3>
-            <p>▪ &nbsp; Vice Chancellor's Note <br/> ▪ &nbsp; Message from the Vice Chairman, BoT </p>
+            <a className='mark'>▪ <br/> ▪</a>
+            <p> Vice Chancellor's Note <br/> Message from the Vice Chairman, BoT </p>
         </div>
 
         <div className="second">
             <h3>▪ &nbsp; ABOUT US</h3>
-            <p>▪ &nbsp; Idea Behind EDU <br/> ▪ &nbsp; Mission, Objectives & Scope <br/> ▪ &nbsp; Board of Advisors </p>
+            <a className='mark'>▪ <br/> ▪ <br/> ▪</a>
+            <p> Idea Behind EDU <br/>  Mission, Objectives & Scope <br/>  Board of Advisors </p>
         </div>
 
-        <div className="second">
+        <div className="third">
             <h3>▪ &nbsp; WHY EDU? <br/> ▪ &nbsp; ACADEMIC POLICY</h3>
-            <p>▪ &nbsp; Graduating Scheme <br/> ▪ &nbsp; Grading System</p>
+            <a className='mark'>▪ <br/> ▪</a>
+            <p> Graduating Scheme <br/> Grading System</p>
         </div>
 
 

@@ -145,24 +145,53 @@ body{
 }
 
 .about .first p{
-  margin-left: 10vw;
+  margin-left: 11vw;
   font-weight: 500;
   font-size: 1.2vw;
   cursor: pointer;
+  position: relative;
+  text-decoration: underline;
+}
+
+.about .first .mark{
+  position: absolute;
+  margin-left: 10vw;
+  line-height: 38px;
+  font-size: 1.5vw;
 }
 
 .about .second p{
   font-weight: 500;
-  margin-left: 10vw;
+  margin-left: 11vw;
   font-size: 1.2vw;
   cursor: pointer;
+  position: relative;
+  text-decoration: underline;
+}
+
+.about .second .mark{
+  position: absolute;
+  margin-left: 10vw;
+  line-height: 38px;
+  font-size: 1.5vw;
 }
 
 .about .third p{
   font-weight: 500;
-  margin-left: 10vw;
+  margin-left: 11vw;
   font-size: 1.2vw;
   cursor: pointer;
+  position: relative;
+  text-decoration: underline;
 }
+
+.about .third .mark{
+  position: absolute;
+  margin-left: 10vw;
+  line-height: 38px;
+  font-size: 1.5vw;
+}
+
+
 
 
