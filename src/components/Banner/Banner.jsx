@@ -1,4 +1,5 @@
 import React from 'react'
+import { AiOutlineDown } from 'react-icons/ai';
 
 
 const Banner = () => {
@@ -11,6 +12,7 @@ const Banner = () => {
         <p> APPROACHES IN HUMAN SCIENCES </p>
        </div>
         <button className="bt">CLICK FOR DETAILS→</button>
+        <div className="down"><AiOutlineDown className='tink' /></div>
        </div>
   )
 }

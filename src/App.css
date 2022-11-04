@@ -119,6 +119,40 @@ body{
   background: rgba(255, 255, 255, 0.2);
 }
 
+.down{
+  position: absolute;
+  margin-top: 27vw;
+  color: rgb(172, 169, 169);
+}
 
+.tink:hover{
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.about{
+  position: relative;
+  bottom: 8.3vw;
+  background-color: #6A0032;
+  color: #fff;
+  padding-bottom: 10vw;
+  padding-top: 2.5vw;
+  display: flex; 
+}
+
+.about h3{
+  margin-left: 8vw;
+}
+
+.about .first p{
+  margin-left: 8vw;
+}
+
+.about .second p{
+  margin-left: 8vw;
+}
+
+.about .third p{
+  margin-left: 8vw;
+}
 
 
