@@ -210,10 +210,38 @@ body{
 
 .cone h1{
   position: absolute;
-  margin-top: -4vw;
+  margin-top: -5vw;
  margin-left: 9.5vw;
  font-weight: 300;
  color: #6A0032;
+}
+
+.cone p{
+  position: absolute;
+ margin-left: 9.5vw;
+ font-weight: 300;
+ color: #000000;
+ font-size: 17px;
+ line-height: 28px;
+}
+
+.cone .killo{
+  position: absolute;
+ margin-left: 9.5vw;
+ margin-top: 5vw;
+ font-weight: 500;
+ line-height: 38px;
+ color: #6A0032;
+ font-size: 18.5px;
+ font-style: italic;
+ text-align: justify;
+}
+
+.cone .killos{
+  position: absolute;
+ margin-left: 9.5vw;
+ margin-top: 18vw;
+ font-weight: 400;
 }
 
 .cone img{
