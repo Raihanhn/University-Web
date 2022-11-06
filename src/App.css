@@ -250,6 +250,33 @@ body{
   margin-top: -6.8vw;
 }
 
+.cone .btn{
+  position: absolute;
+  margin-top: 14vw;
+  background-color: #6A0032;
+  margin-left: 65vw;
+  padding: 10px 10vw 10px 9vw;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+}
+
+.cone .btns{
+  position: absolute;
+  margin-top: 19vw;
+  border: 1.5px solid #6A0032;
+  border-radius: 5px;
+  color: #6A0032;
+  margin-left: 65vw;
+  padding: 10px;
+  padding-right: 3.9vw;
+  padding-left: 3.2vw;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  background-color: #e9e9e9;
+}
+
 .ctwo{
   width: 100%;
   height: 100vh;
@@ -266,7 +293,7 @@ body{
   font-weight: 600;
   color: #f1c232;
   margin-left: 9vw;
-  letter-spacing: -2px;
+  letter-spacing: -1.8px;
   font-stretch:ultra-condensed;
   padding-top: 30px;
 }

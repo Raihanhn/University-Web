@@ -12,6 +12,8 @@ const ContentOne = () => {
         </p>
         <p className='killos'>We are absolutely committed to our mission.</p>
         <img src={img} alt="" />
+        <button className='btn'>⇨ APPLY ONLINE</button>
+        <button className='btns'>⇨  SCHOLARSHIPS & FINANCIAL SUPPORT</button>
     </div>
   )
 }
