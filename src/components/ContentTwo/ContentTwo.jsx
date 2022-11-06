@@ -12,6 +12,11 @@ const ContentTwo = () => {
         <h1 className='rokis'>PROGRAMS</h1>
         </div>
 
+        <div className="akosi">
+        <h1>POSTGRADUATE</h1>
+        <h1 className='rokisi'>PROGRAMS</h1>
+        </div>
+
     </div>
   )
 }
