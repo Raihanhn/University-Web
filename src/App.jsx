@@ -1,5 +1,6 @@
 import './App.css'
 import About from './components/About/About'
+import Apply from './components/Apply/Apply'
 import Banner from './components/Banner/Banner'
 import ContentOne from './components/ContentOne/ContentOne'
 import ContentTwo from './components/ContentTwo/ContentTwo'
@@ -16,6 +17,7 @@ function App() {
      <About/>
      <ContentOne/>
      <ContentTwo/>
+     <Apply/>
     </div>
   )
 }
