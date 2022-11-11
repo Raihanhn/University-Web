@@ -28,6 +28,17 @@ const ContentTwo = () => {
         <h1 className='rokisi'>PROGRAMS</h1>
         </div>
 
+        <div className="ver">
+          <ul>
+            <li>▪ &nbsp; MASTER OF BUSINESS ADMINISTRATION <span> (MBA)</span></li>
+            <li>▪ &nbsp; MASTER OF PUBLIC POLICY AND LEADERSHIP <span>(MPPL)</span> </li>
+            <li>▪ &nbsp; MASTER OF SCIENCE IN COMPUTER SCIENCE & ENGINEERING <span>(M.SC. IN CSE)</span> </li>
+            <li>▪ &nbsp; MASTER OF SCIENCE IN ELECTRONICS & TELECOMMUNICATION ENGINEERING  <span>(M.SC. IN ETE)</span></li>
+            <li>▪ &nbsp; <strong>MASTER OF SCIENCE IN DATA ANALYTICS AND DESIGN THINKING FOR BUSINESS</strong></li>
+            <li>▪ &nbsp; MASTER OF ARTS (MA) IN ENGLISH <span>(MA) IN ENGLISH </span></li>
+          </ul>
+        </div>
+
 
     </div>
   )
