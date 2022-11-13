@@ -374,7 +374,7 @@ body{
 .apply{
   position: absolute;
   background-color: #6A0032;
-  margin-top: 17vw;
+  margin-top: 15vw;
   width: 100%;
   height: 53vh;
 }
@@ -412,7 +412,7 @@ body{
 .lin{
   position: absolute;
   width: 100%;
-  height: 100vh;
+  height: 40vh;
   background-color: rgb(148, 146, 146);
   margin-top: 42.4vw;
   
