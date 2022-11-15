@@ -379,6 +379,24 @@ body{
   height: 53vh;
 }
 
+.apply p{
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  margin: 15px;
+  margin-top: 3vw;
+  margin-left: 8vw;
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.motion{
+  position: absolute;
+  right: 7vw;
+  margin-top: 15px;
+}
+
+
 
 
 
