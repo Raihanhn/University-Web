@@ -8,7 +8,7 @@ const Links = () => {
         </div>
 
         <div className="resource">
-          yo
+          <button className="bet">RESOURCES FOR FACULTY & ADMIN</button>
         </div>
 
         <div className="inter">

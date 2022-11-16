@@ -458,6 +458,20 @@ body{
   height: 40vh;
 }
 
+.lin .resource .bet{
+  position: absolute;
+  padding: 10px 8vw 10px 8vw;
+  border-radius: 4px;
+  border: 1px solid  #6A0032;
+  color: #6A0032;
+  cursor: pointer;
+  margin-left: 6.5vw;
+  font-weight: 400;
+  font-size: 14px;
+  top: 10vw;
+  background-color:  #fff;
+}
+
 .lin .inter{
   position: absolute;
   background-color: #6A0032;
