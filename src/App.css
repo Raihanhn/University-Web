@@ -429,7 +429,7 @@ body{
 .lin{
   position: absolute;
   width: 100%;
-  height: 100vh;
+  height: 150vh;
   /* background-color: rgb(148, 146, 146); */
   margin-top: 40.5vw;
 }
@@ -450,6 +450,65 @@ body{
   font-weight: bold;
   color:  #0a0a0ad7;
 }
+
+.lin .resource{
+  background-color: #fff;
+  margin-top: 8.2vw;
+  width: 100%;
+  height: 40vh;
+}
+
+.lin .inter{
+  position: absolute;
+  background-color: #6A0032;
+  width: 100%;
+  height: 44vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.tera{
+  padding: 10px 10vw 10px 10vw;
+  border-radius: 4px;
+  background-color:  #6A0032;
+  color: #fff;
+  margin-top: 25px;
+  border: 1px solid #fff;
+}
+
+.terao{
+  padding: 10px 8vw 10px 8vw;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  margin-top: 25px;
+  background-color:  #6A0032;
+  color: #fff;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.terai{
+  padding: 10px 10.3vw 10px 10.3vw;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  margin-top: 25px;
+  background-color:  #6A0032;
+  color: #fff;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.teras{
+  padding: 9px 24.6vw 9px 24.6vw;
+  border-radius: 4px;
+  margin-top: 25px;
+  color: #6A0032;
+  border: 1px solid #fff;
+  background-color: #fff;
+  font-weight: 300;
+  font-size: 15px;
+}
+
 
 
 
