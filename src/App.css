@@ -426,44 +426,29 @@ body{
   margin-top: 15px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .lin{
   position: absolute;
   width: 100%;
-  height: 40vh;
-  background-color: rgb(148, 146, 146);
-  margin-top: 42.4vw;
-  
+  height: 100vh;
+  /* background-color: rgb(148, 146, 146); */
+  margin-top: 40.5vw;
+}
+
+.lin .pin{
+  position: absolute;
+  background-color:  #e9e9e9;
+  width: 100%;
+  height: 17vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.lin .pin .ney{
+  font-family: 'Dancing Script', cursive;
+  margin-top: 45px;
+  font-size: 23px;
+  font-weight: bold;
+  color:  #0a0a0ad7;
 }
 
 

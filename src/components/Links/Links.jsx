@@ -4,7 +4,7 @@ const Links = () => {
   return (
     <div className="lin">
         <div className="pin">
-            how are you
+            <p className='ney'>Important Links</p>
         </div>
     </div>
   )
