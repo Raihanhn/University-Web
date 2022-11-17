@@ -599,6 +599,37 @@ body{
   font-size: 15px;
 }
 
+.footer{
+  margin-top: 89vw;
+  position: absolute;
+  background-color: rgb(224, 218, 218);
+  width: 100%;
+  height: 50vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.tio{
+  margin-top: 38px;
+  color: #6A0032;
+  font-family: 'EB Garamond', serif;
+}
+
+.tis{
+  margin-top: 10px;
+  position: relative;
+  line-height: 32px;
+  font-size: 91%;
+  /* font-weight: 400; */
+}
+
+.tik{
+  margin-top: 10px;
+  font-size: 80%;
+}
+
+
+
 
 
 
