@@ -13,7 +13,7 @@ const Links = () => {
 
         <div className="inter">
           <div className="bot">
-            <button className='tera'>Application/proposal for "International Mother Language International Award 2023"</button><br/>
+            <button className='tera'>আন্তর্জাতিক মাতৃভাষা জাতীয় পদক ২০২৩ এর প্রস্তাব আহ্বান </button><br/>
             <button className='terao'>Application/proposal for "International Mother Language International Award 2023"</button><br/>
             <button className='terai'>Osmosis: Second International Conference by the department of English</button><br/>
             <button className='teras'>Bus Schedule</button>
