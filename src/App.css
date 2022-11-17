@@ -472,6 +472,70 @@ body{
   background-color:  #fff;
 }
 
+.marke{
+  font-size: 1.6vw;
+  position: absolute;
+  margin-top: 6.2vw;
+  margin-left: 8vw;
+}
+
+.firstly ul li{
+  padding: 3.9px;
+}
+
+.lin .resource .firstly ul li a{
+  font-weight: 600;
+  font-size: 1vw;
+  color: #6A0032;
+  position: absolute;
+  margin-top: 6vw;
+  margin-left: 9vw;
+}
+
+.markes{
+  font-size: 1.7vw;
+  position: absolute;
+  margin-top: -9vw;
+  margin-left: 43vw;
+}
+
+.secondly ul li{
+  padding: 5px;
+}
+
+.lin .resource .secondly ul li a{
+  font-weight: 600;
+  font-size: 1vw;
+  color: #6A0032;
+  position: absolute;
+  margin-left: 44vw;
+  margin-top: -9vw;
+}
+
+.markew{
+  font-size: 1.7vw;
+  position: absolute;
+  margin-top: -21vw;
+  margin-left: 73vw;
+}
+
+.thirdly ul li{
+  padding: 5px;
+}
+
+.redd{
+  color: rgb(192, 9, 9);
+}
+
+.lin .resource .thirdly ul li a{
+  font-weight: 600;
+  font-size: 1vw;
+  color: #6A0032;
+  position: absolute;
+  margin-left: 74vw;
+  margin-top: -21vw;
+}
+
 .lin .inter{
   position: absolute;
   background-color: #6A0032;
@@ -490,6 +554,10 @@ body{
   border: 1px solid #fff;
 }
 
+.tera:hover{
+  background: rgba(255, 255, 255, 0.2);
+}
+
 .terao{
   padding: 10px 8vw 10px 8vw;
   border-radius: 4px;
@@ -501,6 +569,10 @@ body{
   font-size: 15px;
 }
 
+.terao:hover{
+  background: rgba(255, 255, 255, 0.2);
+}
+
 .terai{
   padding: 10px 10.3vw 10px 10.3vw;
   border-radius: 4px;
@@ -510,6 +582,10 @@ body{
   color: #fff;
   font-weight: 300;
   font-size: 15px;
+}
+
+.terai:hover{
+  background: rgba(255, 255, 255, 0.2);
 }
 
 .teras{
