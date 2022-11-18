@@ -624,8 +624,33 @@ body{
 }
 
 .tik{
-  margin-top: 10px;
+  margin-top: 20px;
   font-size: 80%;
+}
+
+.social-links{
+  margin-top: 20px;
+  
+}
+
+.social-links a{
+list-style: none;
+font-size: 1.5vw;
+text-decoration: none;
+border-radius: 50%;
+color: #fff;
+
+display: inline-block;
+height: 38px;
+width: 38px;
+background-color: rgba(95,99,104,255);
+margin: 0 10px 10px 0;
+text-align: center;
+justify-content: center;
+line-height: 40px;
+border-radius: 50%;
+
+  
 }
 
 
